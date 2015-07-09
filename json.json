@@ -1,0 +1,279 @@
+{
+    "headerLinks": [
+        {
+            "liClass": "logo",
+            "text": "Steinlager",
+            "href": "/"
+        },
+        {
+            "liClass": "story",
+            "text": "<span>CH</span> <strong>01</strong> Underdogs",
+            "href": "/stories/1"
+        },
+        {
+            "liClass": "story",
+            "text": "<span>CH</span> <strong>02</strong> Enemy Soil",
+            "href": "/stories/2"
+        },
+        {
+            "liClass": "story",
+            "text": "<span>CH</span> <strong>03</strong> The Spoils</a>",
+            "href": "/stories/3"
+        },
+        {
+            "liClass": "volume",
+            "text": "Volume",
+            "href": "#"
+        },
+        {
+            "liClass": "burger",
+            "text": "<span></span><span></span><span></span>",
+            "href": "#"
+        }
+    ],    
+    "sidebarshare": "Show your support and be in to win an originals jersey",
+    "sidebarLinks": [
+        {
+            "text": "Share your message <em>of support</em>",
+            "href": "/register"
+        },
+        {
+            "text": "See messages in <em>the Clubroom</em>",
+            "href": "/gallery"
+        },
+        {
+            "text": "Visit the <em>Steinlager website</em>",
+            "href": "http://www.steinlager.co.nz",
+            "external": "true"
+        },
+        {
+            "text": "Get in touch<em>contact us</em>",
+            "href": "#",
+            "external": "true"
+        },
+        {
+            "text": "Join us on<em>Facebook</em>",
+            "href": "#",
+            "external": "true"
+        },
+        {
+            "text": "close",
+            "href": "#",
+            "external": "true"
+        }
+    ],
+    "pages": {
+        "introduction": {
+            "name": "Introduction",
+            "url": "/",
+            "pageTitle": "Believers from the start, supporters 'til the end.",
+            "pageText": ""
+        },
+        "register": {
+            "name": "Register",
+            "url": "/register",
+            "pageTitle": "Share your message<strong>of belief</strong>",
+            "pageText": "Be in to win a replica Originals' jersey*<em>When you submit your message.</em>",
+            "registerFormFields": [
+                { 
+                  "label": "Full name",
+                  "placeholder": "Full name",
+                    "name": "name",
+                    "type":"text",
+                    "validationMessage": "!",
+                    "validationRequired": "true"
+                },
+                { 
+                  "label": "Email",
+                  "placeholder": "Email",
+                    "name": "email",
+                    "type":"text,",
+                    "validationMessage": "!",
+                    "validationRequired": "true",
+                    "validationType": "email"
+                },
+                { 
+                  "label": "Message of belief",
+                  "placeholder": "Message of belief",
+                    "name": "message_of_belief",
+                    "textarea": "true",
+                    "validationMessage": "!",
+                    "validationRequired": "true"
+                },
+                {
+                    "label":"I accept the <a href=\"/terms\">T&amp;Cs</a>",
+                    "name":"terms",
+                    "type":"checkbox",
+                    "validationMessage": "Please accept the terms and conditions",
+                    "validationRequired": "true"
+                },
+                {
+                    "label":"Please send me offers relating to Steinlager",
+                    "name":"terms",
+                    "type":"checkbox",
+                    "validationMessage": "Please accept the terms and conditions",
+                    "validationRequired": "true"
+                }
+            ],
+            "validationMessage": "Oops! You missed a field.",
+            "buttonText": "Submit"
+        },
+        "share": {
+            "name": "Share",
+            "url": "/share",
+            "pageTitle": "Thanks for your message of support. we're <span></span> strong and counting.",
+            "shareButtonText": "Facebook",
+            "galleryLink": "/gallery",
+            "galleryButtonText": "Hall of belief"
+        }
+    },
+    "stories": [
+        {
+            "id": "1",
+            "storyTitle": "Underdogs",
+            "scenes": [
+                {
+                    "id": "1",
+                    "text": "",
+                    "elements": [
+                        {
+                            "name": "Can Effect",
+                            "image": "http://placehold.it/300x300",
+                            "layer" : "1",
+                            "className" : "can"
+                        },                    
+                        {
+                            "name": "Can Effect",
+                            "image": "http://placehold.it/300x300",
+                            "layer" : "1",
+                            "className" : "can"
+                        }
+                    ],
+                    "keyframes":""
+                },
+                {
+                    "id": "2",
+                    "text": "We set off in July of 1905 as a determined group of farmers, iron workers and a couple of city boys.",
+                    "elements": [
+                        {
+                            "name": "",
+                            "type": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "text": "We didn’t know then that we were on a journey from <em>obscurity</em> <strong>to immortality.</strong>",
+                    "elements": [
+                        {
+                            "name": "",
+                            "type": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "4",
+                    "text": "As New Zealand’s first rugby team, The Originals, we spent 42 days at sea, riding the surging ocean’s currents to the UK. ",
+                    "elements": [
+                        {
+                            "name": "",
+                            "type": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "5",
+                    "text": "Knowing the world assumed our fate already to be sealed, we created structured line-outs, something the world had never seen. ",
+                    "elements": [
+                        {
+                            "name": "",
+                            "type": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "6",
+                    "text": "Still at sea, we sparked an innovative, and unpredictable style of play that would become our signature.",
+                    "elements": [
+                        {
+                            "name": "",
+                            "type": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "7",
+                    "text": "We discovered that with some clever rearrangement we could insert a pointed, attacking element into our backline. ",
+                    "elements": [
+                        {
+                            "name": "",
+                            "type": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "8",
+                    "text": "And here, aboard the kauri decks of the Rimutaka, the First-Five eighths position was born.  ",
+                    "elements": [
+                        {
+                            "name": "",
+                            "type": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "9",
+                    "text": "This was a bold move. A brazen challenge to the way things had always been. Defying the rules, the same way Steinlager does. Always has.",
+                    "elements": [
+                        {
+                            "name": "",
+                            "type": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "storyTitle": "Enemy Lines",
+            "scenes": [
+                {
+                    "id": "1",
+                    "text": "",
+                    "elements": [
+                        {
+                            "name": "",
+                            "type": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "storyTitle": "The Spols",
+            "scenes": [
+                {
+                    "id": "1",
+                    "text": "",
+                    "elements": [
+                        {
+                            "name": "",
+                            "type": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "footerContent": [
+        {
+            "termsLink": "/terms",
+            "showTerms": "true",
+            "termsText": "Terms &amp; Conditions",
+            "privacyLink": "/privacy",
+            "showPrivacy": "true",
+            "privacyText": "Privacy Policy"
+        }
+    ]
+}
