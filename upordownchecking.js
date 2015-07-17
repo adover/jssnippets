@@ -19,7 +19,8 @@
           }
 
       });
-    
+      
+      // Requires jQuery.touchSwipe
       $(window).swipe({
         swipe:function(event, direction, distance, duration, fingerCount, fingerData) {
           if(direction == "up"){
@@ -30,6 +31,7 @@
         }
       })
 
+      // Requires jQuery.mouseWheel
       $(window).mousewheel(function(event, delta){
 
         if(delta > 0){
